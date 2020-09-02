@@ -1,6 +1,6 @@
 # Panel Adaptive
 
-##Cashier terminal simulator, front-end only!
+## Cashier terminal simulator, front-end only!
 [>>>Application Link<<<](https://arsj13.github.io/adaptive/)
 
 ## Project setup
